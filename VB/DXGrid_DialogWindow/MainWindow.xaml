@@ -9,7 +9,7 @@
             <dxg:GridControl.Columns>
                 <dxg:GridColumn FieldName="ProductName">
                     <dxg:GridColumn.EditSettings>
-                        <dxe:ButtonEditSettings DefaultButtonClick="ButtonEditSettings_DefaultButtonClick" />
+                        <dxe:ButtonEditSettings DefaultButtonClick="ButtonEditSettings_DefaultButtonClick"/>
                     </dxg:GridColumn.EditSettings>
                 </dxg:GridColumn>
                 <dxg:GridColumn FieldName="UnitPrice" />
